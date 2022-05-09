@@ -1,4 +1,4 @@
-# Tifi_test
+# REACT NATIVE TEST
 CREAR PROYECTO EN REACT NATIVE CAPAZ DE CONSUMIR UNA API, luego de tener login exitoso mostrar todos los usuarios
 
 # ANTES DE CUALQUIER CAMBIO , CREAR LA BRANCH LOCAL :
