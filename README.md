@@ -3,11 +3,11 @@ CREAR PROYECTO EN REACT NATIVE CAPAZ DE CONSUMIR UNA API, luego de tener login e
 
 # ANTES DE CUALQUIER CAMBIO , CREAR LA BRANCH LOCAL :
 1. git clone https://github.com/diegocumbe1/Native.git
-2. git checkout -b dario
+2. git checkout -b test
 3. git branch     (para verificar que se haya creado la branch)
 4. deberia aparecer las dos ramas:
     main
-    dario
+    test
 5. revisar documentacion de react Native para instacion y configuracion del ambiente
 
 credenciales de login
