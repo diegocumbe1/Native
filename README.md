@@ -2,7 +2,7 @@
 CREAR PROYECTO EN REACT NATIVE CAPAZ DE CONSUMIR UNA API, luego de tener login exitoso mostrar todos los usuarios
 
 # ANTES DE CUALQUIER CAMBIO , CREAR LA BRANCH LOCAL :
-1. git clone https://github.com/TIFI-APP/Tifi_test.git
+1. git clone https://github.com/diegocumbe1/Native.git
 2. git checkout -b dario
 3. git branch     (para verificar que se haya creado la branch)
 4. deberia aparecer las dos ramas:
@@ -21,3 +21,4 @@ ruta de login: (https://tifi-api.herokuapp.com/users/login-ally) --> POST
 ruta de usuarios: (https://tifi-api.herokuapp.com/users) --> GET
 # documentacion react Native
 https://reactnative.dev/docs/environment-setup
+
